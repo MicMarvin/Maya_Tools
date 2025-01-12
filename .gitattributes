@@ -1,0 +1,2 @@
+# Specify the correct language for .ma files
+*.ma linguist-language=Maya
