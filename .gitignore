@@ -1,3 +1,7 @@
+__pycache__/
+.idea/
+*.pyc
+/*.pyc
 /autoLimb.py
 /autoLimb-2.py
 /autoLimb-ORIG.py
@@ -25,6 +29,7 @@
 /venv/
 /RiggingTool_OLD/
 /RiggingTool/ControlObjects/Blueprint/.mayaSwatches/
+/RiggingTool/Characters/
 /RiggingTool/Templates/tmp/
 /Pyside2_For_Maya_Vol_01/
 /Icons/
